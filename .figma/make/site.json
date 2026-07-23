@@ -1,0 +1,10 @@
+{
+  "description": "Manage vehicle fleets with customizable checklists for inspections and maintenance requests, enabling team collaboration and real-time updates.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
